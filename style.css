@@ -411,6 +411,10 @@ li {
     flex-direction: column;
   }
 
+  .accordion-header {
+    margin-top: 45px;
+  }
+
   .projects__blocks {
     width: 457px;
   }
